@@ -1,6 +1,6 @@
 
 
-# Google-Maps-기반 음식점 메뉴 데이터 수집 및 정형화 시스템
+# Google-Maps-기반 음식점 메뉴 데이터 수집 및 정형화(Data Preprocessing?) 시스템
 
 > 음식 랜덤 추천 서비스를 위한 데이터 생성 파이프라인
 
