@@ -1,0 +1,22 @@
+# 가상환경
+.venv/
+env/
+venv/
+ENV/
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 환경변수 파일 (API 키 유출 방지)
+.env
+
+# 수집 결과물 (선택적 커밋 방지)
+# restaurants_menu.xlsx
+
+# IDE / 에디터 설정
+.idea/
+.vscode/
+*.swp
